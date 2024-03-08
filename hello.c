@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 // another change 
 
 // another comment:
@@ -10,6 +9,5 @@
 int main( )
 {
   printf("Hello, World\n");
-
   return 0;
 }
