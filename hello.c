@@ -9,6 +9,9 @@
 int main( )
 {
   printf("Hello, World\n");
+
+  // Bob is a jerk
   printf("Hello\n");
+
   return 0;
 }
