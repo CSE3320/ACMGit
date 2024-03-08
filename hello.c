@@ -10,7 +10,8 @@ int main( )
 {
   printf("Hello, World\n");
 
-  // Bob is a jerk
+  fix_crash();
+
   printf("Hello\n");
 
   return 0;
